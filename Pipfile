@@ -8,6 +8,9 @@ flask = "*"
 flask-sqlalchemy = "*"
 flask-restful = "*"
 requests = "*"
+flask-migrate = "*"
+sqlalchemy-serializer = "*"
+flask-cors = "*"
 
 [dev-packages]
 
